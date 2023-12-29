@@ -33,6 +33,6 @@ def count():
 count()
 ```
 ### OUTPUT:
-![image](https://github.com/Hariveeraprasad-2006/Word-count/assets/145049988/a898cf7d-6f5e-42fa-b6ab-52247aea5bed)
+![image](https://github.com/Hariveeraprasad-2006/Word-count/assets/145049988/ab038c8c-feac-4b93-a9dd-118f3e4ffb23)
 ## RESULT:
 Thus the program is written to find the word count from a text.
