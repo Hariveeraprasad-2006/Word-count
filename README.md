@@ -19,6 +19,9 @@ After that use for loop to find the count of words
 At last do function call
 ## PROGRAM:
 ```
+#To write a python program for getting the word count from a text.
+#Developed by: Arikatla Hari Veera Prasad
+#Register number= 212223240014
 def count():
     with open("PYTHON2.txt","r") as file:
         a=file.read()
